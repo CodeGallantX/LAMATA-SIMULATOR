@@ -2,8 +2,7 @@
 "LAMATA-SIMULATOR is a Python-based simulation program that replicates the functions of the Lagos Metropolitan Area Transport Authority (LAMATA). Explore and understand urban transportation management in Lagos through this simulator, designed for testing and learning.🚍✨
 
 
-#--------------- LAMATA BRT BUS Simulator-------------
-
+****
 Welcome to the Lagos Metropolitan Area Transport Authority (LAMATA) Bus Rapid Transit (BRT) Simulator! This Python program simulates the experience of boarding and traveling on a BRT bus from various terminals in Lagos.
 
 ## How to Use
