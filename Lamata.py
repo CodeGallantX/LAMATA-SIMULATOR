@@ -1,14 +1,4 @@
-﻿# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 18 18:30:27 2023
-
-@author: PC USER
-"""
-
-
-
-#%%
-# LAMATA BRT  BUS __ ME
+# LAMATA BRT  BUS
 import time
 
 bus = [] 
