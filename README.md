@@ -41,6 +41,6 @@ Welcome to the Lagos Metropolitan Area Transport Authority (LAMATA) Bus Rapid Tr
 
 - The simulator includes standing and sitting queues.
 - Cowry cards are used for fare payment.
-- The journey includes stops at Ikorodu, Oshodi, Mile 12, Ojota, Maryland, and the final destination.
+- The journey includes stops at Mile 12, Ojota, Maryland, and the final destination -- **Oshodi**.
 
 Feel free to explore the simulation, and happy virtual commuting! 🚌💳
